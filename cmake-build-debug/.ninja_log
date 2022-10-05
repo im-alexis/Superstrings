@@ -1,0 +1,14 @@
+# ninja log v5
+67	123	1645142304174510318	Project1_starter_files	baeaebccd76729e4
+0	94	1644296925861770948	CMakeFiles/Project1_starter_files.dir/main.cpp.o	395eea782d13d742
+0	66	1645142304116856563	CMakeFiles/Project1_starter_files.dir/Project1.cpp.o	c4e414ff7a4c0d8a
+2	255	1645142281595500689	CMakeFiles/Project1_starter_files.dir/header.c.o	fd14ffc8018e11a7
+1	369	1662513105074910868	CMakeFiles/Project1_starter_files.dir/header.c.o	9076e7da220229a2
+1	463	1662513105172691156	CMakeFiles/Project1_starter_files.dir/Project1.cpp.o	a56d617b7b0aa6e3
+1	472	1662513105180812189	CMakeFiles/Project1_starter_files.dir/main.cpp.o	4346db1c53d65e6d
+472	569	1662513105278677646	Project1_starter_files	29b7d401afe83f4f
+6	469	1663695637169358953	CMakeFiles/Project1_starter_files.dir/Project1.cpp.o	a56d617b7b0aa6e3
+2	473	1663695637178121642	CMakeFiles/Project1_starter_files.dir/main.cpp.o	4346db1c53d65e6d
+473	597	1663695637302425940	Project1_starter_files	29b7d401afe83f4f
+0	85	1663695656405859004	CMakeFiles/Project1_starter_files.dir/main.cpp.o	4346db1c53d65e6d
+85	161	1663695656482000865	Project1_starter_files	29b7d401afe83f4f
