@@ -1,5 +1,6 @@
 # Superstrings
-This is a Project 1 for ECE 312 Spring 2022. 
+
+This is Project 1 for ECE 312 Spring 2022. 
 
 The idea behind this project to be able to traverse through stings.
 
